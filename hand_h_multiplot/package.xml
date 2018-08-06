@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>hand_h_multiplot</name>
+  <version>0.0.0</version>
+  <description>The hand_h_multiplot package</description>
+  <maintainer email="software@shadowrobot.com">Shadow Robot's software team</maintainer>
+  <author email="fotios@shadowrobot.com">Fotios Papadopoulos</author>
+  <license>Private</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
