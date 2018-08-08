@@ -35,7 +35,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -48,7 +48,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -86,7 +86,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -99,7 +99,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -137,7 +137,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -150,7 +150,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -211,7 +211,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -224,7 +224,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -262,7 +262,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -275,7 +275,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -313,7 +313,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -326,7 +326,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -387,7 +387,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -400,7 +400,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -438,7 +438,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -451,7 +451,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -489,7 +489,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -502,7 +502,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -565,7 +565,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -578,7 +578,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -616,7 +616,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -629,7 +629,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -667,7 +667,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -680,7 +680,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/0/driver_state</topic>
+                                    <topic>/fh_finger/H0_F0/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -741,7 +741,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -754,7 +754,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -792,7 +792,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -805,7 +805,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -843,7 +843,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -856,7 +856,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/1/driver_state</topic>
+                                    <topic>/fh_finger/H0_F1/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -917,7 +917,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -930,7 +930,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -968,7 +968,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -981,7 +981,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
@@ -1019,7 +1019,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </x_axis>
                                 <y_axis>
@@ -1032,7 +1032,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/fh_finger/2/driver_state</topic>
+                                    <topic>/fh_finger/H0_F2/driver_state</topic>
                                     <type>fh_msgs/FhState</type>
                                 </y_axis>
                             </axes>
